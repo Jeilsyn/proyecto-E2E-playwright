@@ -1,7 +1,7 @@
 {
-  "name": "playwright-essential-training-abstractions-fixtures-and-complex-scenarios-4278224",
+  "name": "playwright-E2E-testing-projectt",
   "version": "1.0.0",
-  "description": "This is the repository for the LinkedIn Learning course `playwright-essential-training`. The full course is available from [LinkedIn Learning][lil-course-url].",
+  "description": "",
   "main": "index.js",
   "engines": {
     "node": ">=18.0.0"
